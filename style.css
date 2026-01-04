@@ -1,0 +1,75 @@
+body{
+    background: linear-gradient(
+    90deg,
+    rgba(199, 62, 18, 1) 0%,
+    rgba(248, 170, 48, 1) 100%
+  );
+}
+#white{
+  background-color: white;
+  
+  float: right;
+  margin-top: -500px;
+  margin-bottom: -900px;
+}
+#center{
+  margin-left: 50px;
+}
+#orange{
+background-color:orange;
+border-radius: 10%;
+width: 100px;
+margin-top: -40px;
+margin-left: 300px;
+text-align: center;
+}
+#men{
+  margin-left: 50px;
+  margin-bottom: 400px;
+}
+#product{
+  margin-left: 50px;
+  margin-top: -360px;
+  
+}
+#logo{
+  width: 100px;
+  margin-left: 50px;
+  margin-top: -50px;
+}
+
+#shoe{
+  width: 450px;
+  display: flex;
+  margin-left: 150px; 
+}
+#text{
+  margin-left: 50px;
+}
+#color{
+  margin-left: 50px;
+}
+#img
+{
+ margin-left: 50px;
+}
+#size{
+  margin-left: 50px;
+}
+#number{
+  margin-left: 100px;
+}
+#button{
+  background-color: orange;
+  margin-left: 50px;
+  margin-top: 5px;
+  width: 150px;
+}
+#price{
+  margin-left: 250px;
+}
+#share{
+  margin-left: 450px;
+  background-color: white;
+  border-radius: 50%;
+}
